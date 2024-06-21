@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "ui-scan-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/xtone/ui-scan-ios-sdk",
+      "state" : {
+        "branch" : "main",
+        "revision" : "d6c8aad3dcf61a7b3bdad9157a08d7dfe258f5bf"
+      }
+    }
+  ],
+  "version" : 2
+}
