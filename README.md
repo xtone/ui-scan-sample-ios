@@ -16,9 +16,12 @@ UI SCANが提供するiOS(Swift)用のSDKです。これを使うことで、開
 
 1. [UI SCAN](https://ui-scan.com/)に登録する
 2. UI SCAN内にプロジェクトを作成する
-3. UI SCANのFigmaプラグイン入手する  ※[Figmaプラグインの入手方法](https://help.ui-scan.com/ja/import-designs/figma-plugin)
-4. UI SCANの[設定画面](https://app.ui-scan.com/account/apikey/)からAPIキーを入手する
-5. Figmaプラグインを使って[デザインデータ（プレイグラウンドファイル）](https://www.figma.com/community/plugin/1385487013070073340/ui-scan-design-uploader)をUI SCANにアップロードする
-6. 本アプリ内に含まれるSDKの該当箇所にAPIキーを挿入し、アプリをビルドする  ※[UI SCAN SDK for iOS(Swift)](https://github.com/xtone/ui-scan-ios-sdk) の使い方
-7. アプリを起動する  (自動でスクリーンショットが撮影され、UI SCANへアップロードされます)
-8. UI SCAN上で画面比較を行う
+3. UI SCANのFigmaプラグイン入手する  
+   ※[Figmaプラグインの入手方法](https://help.ui-scan.com/ja/import-designs/figma-plugin)
+6. UI SCANの[設定画面](https://app.ui-scan.com/account/apikey/)からAPIキーを入手する
+7. Figmaプラグインを使って[デザインデータ（プレイグラウンドファイル）](https://www.figma.com/community/plugin/1385487013070073340/ui-scan-design-uploader)をUI SCANにアップロードする
+8. 本アプリ内に含まれるSDKの該当箇所にAPIキーを挿入し、アプリをビルドする  
+   ※[UI SCAN SDK for iOS(Swift)](https://github.com/xtone/ui-scan-ios-sdk) の使い方
+9. アプリを起動する  
+   (自動でスクリーンショットが撮影され、UI SCANへアップロードされます)
+10. UI SCAN上で画面比較を行う
