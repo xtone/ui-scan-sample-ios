@@ -1,10 +1,10 @@
 # ui-scan-sample-ios 概要
 
-「ui-scan-sample-ios」は、UI SCAN SDK for iOS(Swift)が組み込まれたサンプルアプリです。
+**ui-scan-sample-ios**は、[UI SCAN SDK for iOS(Swift)](https://github.com/xtone/ui-scan-ios-sdk) が組み込まれたサンプルアプリです。
 
 ## UI SCANとは
-UI SCANは、デザインファイル（Figma）と実装された画面のスクリーンショットをAI搭載の独自エンジンが自動的に比較し、差分を検出するデザインチェックツールです。UI SCANを使用すると、デザインチェックがこれまでよりも簡単になります。
-Webサイト: https://ui-scan.com/
+UI SCANは、デザインファイル（Figma）と実装された画面のスクリーンショットをAI搭載の独自エンジンが自動的に比較し、差分を検出するデザインチェックツールです。UI SCANを使用すると、デザインチェックがこれまでよりも簡単になります。  
+   Webサイト: https://ui-scan.com/
 
 
 ## UI SCAN SDK for iOS(Swift)とは
